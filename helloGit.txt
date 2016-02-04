@@ -1,0 +1,5 @@
+This is first commit from the message. If you see me then you can use git
+
+
+
+File => Add => | Push => Commit -m message!
